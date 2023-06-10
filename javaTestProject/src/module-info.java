@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Febbie
+ *
+ */
+module javaTestProject {
+}
